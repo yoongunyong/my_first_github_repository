@@ -1,6 +1,7 @@
 public class test {
 
-    public void test(){
+    public void create(){
         System.out.println("test");
+        System.out.println("test2");
     }
 }
